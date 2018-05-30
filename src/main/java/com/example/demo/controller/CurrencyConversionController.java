@@ -42,3 +42,5 @@ public class CurrencyConversionController {
 
 //http://localhost:8100/currency-converter/from/USD/to/CNY/quantity/100
 //http://localhost:8100/currency-converter/from/EUR/to/CNY/quantity/120
+
+//http://localhost:8100/currency-converter-feign/from/EUR/to/CNY/quantity/120
